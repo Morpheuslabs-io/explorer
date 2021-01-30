@@ -6,7 +6,7 @@
 
 ===================
 
-Morpheus Labs forked this the source code from Solana as a reference source of the block explorer. Users can explore, modify and test the protocol on Morpheus Labs SEED platform.
+Morpheus Labs forked the source code from Solana as a reference source of the block explorer. Users can explore, modify and test the protocol on Morpheus Labs SEED platform.
 
 Since this is a GNU License, for SEED platform users or any users who need to fork or clone this UniSwap protocol need to explicitly fork from this repo.
 
