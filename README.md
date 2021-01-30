@@ -4,11 +4,21 @@
 
 # Solana Explorer
 
+===================
+
+Morpheus Labs forked this the source code from Solana as a reference source of the block explorer. Users can explore, modify and test the protocol on Morpheus Labs SEED platform.
+
+Since this is a GNU License, for SEED platform users or any users who need to fork or clone this UniSwap protocol need to explicitly fork from this repo.
+
+===================
+
 ## Development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
+
+### `npm i`
 
 ### `npm start`
 
